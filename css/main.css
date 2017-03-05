@@ -1,0 +1,91 @@
+/* FONTS */
+
+/* all styling*/
+
+* {
+  box-sizing: border-box;
+}
+
+/* start img section styling*/
+
+.col-left {
+  float: left;
+}
+
+.col-right {
+  float: right
+}
+
+/* start right text styling */
+
+.right-text {
+  background-color: lightgray;
+  height: 635px;
+  border-style: dashed;
+  border-color: gray;
+}
+
+.right-defining {
+  font-style: italic;
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 41em;
+  margin-top: 2em;
+  text-transform: uppercase;
+}
+
+.right-text > h1 {
+  margin-left: 30em;
+  padding-top: 1em;
+  font-size: 30px;
+}
+
+.right-text > ul > li {
+  font-style: italic;
+  margin-left: 45em;
+}
+
+.right-text > p {
+  margin-left: 43em;
+  margin-right: 4em;
+  margin-top: 1.5em;
+  line-height: 1.5em;
+  text-align: justify;
+}
+
+/* start left text styling */
+
+.left-text {
+  background-color: lightgray;
+  height: 635px;
+  border-style: dashed;
+  border-color: gray;
+}
+
+.left-defining {
+  font-style: italic;
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 2em;
+  margin-top: 2em;
+  text-transform: uppercase;
+}
+
+.left-text > h1 {
+  margin-left: 10em;
+  padding-top: 1em;
+  font-size: 30px;
+}
+
+.left-text > ul > li {
+  font-style: italic;
+  margin-left: 6em;
+}
+
+.left-text > p {
+  margin-left: 3em;
+  margin-right: 46em;
+  margin-top: 1.5em;
+  line-height: 1.5em;
+  text-align: justify;
+}
