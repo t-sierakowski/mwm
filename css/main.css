@@ -12,9 +12,18 @@
   float: left;
 }
 
+.defining {
+  font-style: italic;
+  font-size: 1em;
+  font-weight: bold;
+  margin-left: 30em;
+}
+
 section {
   background-color: lightgray;
   height: 635px;
+  border-style: dashed;
+  border-color: gray;
 }
 
 section > h1 {
@@ -27,8 +36,8 @@ section > ul > li {
   margin-left: 45em;
 }
 
-.defining {
-  font-style: italic;
-  font-size: 1em;
-  font-weight: bold;
+section > p {
+  margin-left: 43em;
+  margin-right: 4em;
+  line-height: 1.5em;
 }
