@@ -1,0 +1,18 @@
+/* FONTS */
+
+/* all styling*/
+
+* {
+  box-sizing: border-box;
+}
+
+/* start section styling*/
+
+.col-left {
+  float: left;
+}
+
+section {
+  background-color: lightgray;
+  height: 635px;
+}
