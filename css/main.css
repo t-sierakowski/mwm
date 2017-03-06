@@ -6,6 +6,13 @@
   box-sizing: border-box;
 }
 
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
 /* start img section styling*/
 
 .col-left {
@@ -20,7 +27,7 @@
 
 .right-text {
   background-color: lightgray;
-  height: 635px;
+  height: 679px;
   border-style: dashed;
   border-color: gray;
 }
@@ -29,7 +36,7 @@
   font-style: italic;
   font-size: 1em;
   font-weight: bold;
-  margin-left: 41em;
+  margin-left: 43em;
   margin-top: 2em;
   text-transform: uppercase;
 }
@@ -42,11 +49,11 @@
 
 .right-text > ul > li {
   font-style: italic;
-  margin-left: 45em;
+  margin-left: 48em;
 }
 
 .right-text > p {
-  margin-left: 43em;
+  margin-left: 46em;
   margin-right: 4em;
   margin-top: 1.5em;
   line-height: 1.5em;
@@ -57,7 +64,7 @@
 
 .left-text {
   background-color: lightgray;
-  height: 635px;
+  height: 679px;
   border-style: dashed;
   border-color: gray;
 }
