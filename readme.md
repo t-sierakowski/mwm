@@ -1,3 +1,4 @@
 <h1>Company Project</h1>
 <hr>
-<p>3/5 Wanted to attempt to restyle one of my company pages using what I've learned so far in class. Not going to work on the header information yet. There are seven total styles. Going to work on the first one style wise first for a left column img and the right data, then switch it using a different class.</p>
+<p>3/5 Wanted to attempt to restyle one of my company pages using what I've learned so far in class. Not going to work on the header or footer information today. Going to attempt a rough style and focus mostly on getting all the html written with img floats.</p>
+<p>3/6 Got the rest of the html written as far as data goes for the body section. Styling is not responsive at all --rip. Hoping when we learn about flex-box I can fix its conversion to mobile better. Next to work on: I want to get the header and footer at least empty blocked-in-- maybe get my logo in there. There wont be any additional navigation as the rest of the site is on the home page. Need to build the top section of the page on a separate class as it will be an introduction to why this page exists and not styled like the rest.</p>
